@@ -1,0 +1,772 @@
+@media screen and (min-width:320px) {
+    
+
+    .img-1 {
+        width: 200px;
+        height: 31px;
+        padding-left: 6rem;
+        margin-left: -6em;
+    }
+
+    .btn-1 {
+        width: 100px;
+        height: 40px;
+        font-size: 12px;
+        margin-right: 42px;
+    }
+
+    .main-title {
+        font-size: 29px;
+        width: 52%;
+        padding-top: 1rem;
+    }
+
+    .main {
+        background-size: contain;
+        background-color: #DBDBDB;
+        height: 595px;
+        width: 100%;
+    }
+
+    .main-text {
+        width: 53%;
+        font-size: 20px;
+    }
+
+    .header {
+        height: 70px;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .login-button {
+        margin-top: -1px;
+    }
+
+    .btn-2 {
+        width: 200px;
+        height: 46px;
+        font-size: 15px;
+    }
+
+    .main2-title {
+        font-size: 25px;
+        width: 94%;
+    }
+
+    .main2-text {
+        font-size: 30px;
+    }
+
+    .img-2 {
+        width: 100%;
+    }
+
+    .b_img {
+        width: 160px;
+    }
+
+    .b_right {
+        margin-left: -1px;
+    }
+
+    .b_disorder {
+        margin-top: 3em;
+        width: 288px;
+        font-size: 16px;
+        margin-left: -11em;
+        padding: 0;
+        
+    }
+
+    .b_title {
+        font-size: 23px;
+        margin-bottom: 8em;
+        margin-top: -45px;
+        margin-left: -150px;
+    }
+
+    .b_button  {
+        padding: 12px 30px;
+        font-size: 18px;
+    }
+
+    .button-box {
+        margin-top: -10px;
+    }
+
+    .card {
+        font-size: 20px;
+    }
+
+    .d_title {
+        font-size: 50px;
+        margin-left: 50px;
+    }
+
+    .d_text {
+        margin-left: 10px;
+    }
+
+    .logo {
+        margin: 10px;
+    }
+
+    form {
+        width: 285px;
+    }
+
+    input {
+        width: 240px;
+    }
+
+    textarea {
+        width: 240px;
+    }   
+
+    #telefono, #correo {
+        width: 111px
+    }
+
+    .footer-logo {
+        margin-top: 20px;
+    }
+
+    nav {
+        margin-left: 3em;
+    }
+
+    .text {
+        width: 216px;
+        margin-left: 22px;
+    }
+
+    .spain {
+        margin-left: 15px;
+    }
+
+    .imgfw {
+        margin-left: 70px;
+    }
+
+    .axirash {
+        margin-left: 72px;
+    }
+
+    hr {
+        margin-top: 1em;
+        margin-left: 1em;
+    }
+
+    .social-networks {
+        margin-top: 13em;
+        width: 84%;
+    }
+
+    .social-text {
+        margin-right: 3px;
+        width: 247px;
+    }
+
+    .icons {
+        width: 76%;
+        margin-top: -144px;
+    }
+
+    footer {
+        height: 1430px;
+    }
+
+    .cook {
+        width: 100px;
+        height: 40px;
+        margin-left: 16px;
+    }
+
+    .btnn {
+        margin-left: 25px;
+    }
+
+    .whatsapp-icon {
+        margin-top: -5px;
+    }
+
+    .copyright {
+        margin-top: 10px;
+    }
+
+    .second-section {
+        margin-top: 2em;
+        margin-left: -10em;
+    }
+
+    h2 {
+        width: 113px;
+        margin-left: 19px;
+    }
+
+    .third-section {
+        margin-top: 2em;
+        margin-left: -20em;
+    }
+
+    .fourt-section {
+        margin-top: 3em;
+        margin-left: -553px;
+    }
+    .discounds {
+        justify-content: unset;
+    }
+    .past {
+        margin-left: -255px;
+        margin-top: 10em;
+    }
+}
+
+@media screen and (min-width:576px) {
+    .main {
+        height: 800px;
+        background-size: contain;
+        background-color: #DBDBDB;
+    }
+    
+    .img-1 {
+        margin-left: -95px;
+    }
+
+    .btn-1 {
+        margin-right: 25px;
+    }
+
+    .main-title {
+        font-size: 30px;
+    }
+
+    .main-text {
+        font-size: 29px;
+    }
+
+    .btn-2 {
+        width: 240px;
+        font-size: 18px;
+    }
+
+    .img-2 {
+        width: 150%;
+    }
+
+    .main2-title {
+        font-size: 40px;
+    }
+
+    .main2-text {
+        font-size: 38px;
+    }
+
+    .b_img {
+        width: 288px;
+    }
+
+    .b_disorder {
+        font-size: 18px;
+        padding: 20px;
+        color: #012963;
+        width: 290px;
+        margin-top: 1px;
+    }
+    
+    .b_right {
+        margin-left: 1px;
+    }
+
+    .b_button {
+        margin-top: -1em;
+        margin-left: -10em;
+    }
+
+    .button-box {
+        margin-top: -4em;
+    }
+
+    .benefits{
+        height: 600px;
+    }
+
+    .d_title {
+        font-size: 70px;
+        margin-left: 30px;
+    }
+
+    form {
+        width: 490px;
+    }
+
+    textarea {
+        width: 430px;
+    }
+
+    input {
+        width: 430px;
+    }
+
+    #telefono, #correo {
+        width: 210px;
+    }
+
+    .footer-logo {
+        margin-left: -35px;
+    }
+    
+    li {
+        margin-left: -25px;
+    }
+    
+    .text {
+        width: 143px;
+    }
+
+    .axirash {
+        width: 216px;
+    }
+
+    .second-section {
+        margin-left: 1em;
+    }
+
+    .btn-3 {
+        margin-left: -10px;
+    }
+
+    hr {
+        margin-left: 2em;
+        margin-top: 9em;
+    }
+
+    .third-section {
+        padding-left: 7em;
+    }
+
+    .fourt-section {
+        padding-left: 1em;
+        margin-top: 2px;
+        margin-left: 15em;
+    }
+
+    .social-networks {
+        width: 108%;
+        margin-top: 1em;
+    }
+
+    .social-text {
+        font-size: 18px;
+        margin-top: -228px;
+        margin-right: 64px;
+    }
+
+    .icons {
+        width: 94%;
+        margin-top: -189px;
+    }
+
+    footer {
+        height: 700px;
+    }
+
+    .whatsapp-icon {
+        margin-top: -10px;
+    }
+
+    ul {
+        margin-top: -150px;
+        margin-left: 193px;
+    }
+}
+
+@media screen and (min-width:768px) {
+    .login-button {
+        margin-right: 40px;
+    }
+
+    .img-1 {
+        margin-left: -50px;
+    }
+
+    .main-title {
+        font-size: 43px;
+    }
+
+    .btn-2 {
+        font-size: 19px;
+        width: 250px;
+    }
+
+    .main {
+        background-size: contain;
+        background-color: #DBDBDB;
+    }
+    
+    .b_right {
+        margin-left: -1px;
+    }
+
+    .b_img {
+        width: 100%;
+        height: 315px;
+    }
+
+    .b_disorder {
+        font-size: 21px;
+        width: 345px;
+    }
+
+    .benefits {
+        height: 650px;
+    }
+
+    .d_title {
+        margin-left: 15px;
+    }   
+
+    .second-section {
+        margin-top: -23em;
+        margin-left: 3em;
+    }
+
+    .text {
+        width: 216px;
+        margin-left: 1px;
+    }
+
+    .third-section {
+        margin-left: 26em;
+        margin-top: -219px;
+    }
+ 
+    .fourt-section {
+        margin-left: 20em;
+        padding-left: 0em;
+        margin-top: 75px;
+    }
+
+    .social-networks {
+        margin-top: 0em;
+        margin-left: 7em;
+    }
+
+    .icons {
+        width: 94%;
+
+    }
+
+    hr {
+        margin-left: 3em;
+        margin-top: 10em;
+    }
+
+    footer {
+        height: 672px;
+    }
+
+    .whatsapp-icon {
+        margin-top: -10px;
+    }
+
+    .img-2 {
+        width: 100%;
+    }
+
+    ul {
+        margin-left: 225px;
+    }
+
+    .b_button {
+        margin-top: 4em;
+    }
+    
+    .cliamat {
+        margin-left: 77px;
+        margin-top: 10px;
+    }
+
+    .social-text {
+        margin-right: 170px;
+    }
+    h2 {
+        margin-left: 0px;
+    }
+}
+
+@media screen and (min-width:992px) {
+    .main-title {
+        font-size: 37px;
+    }
+
+    .b_disorder{
+        font-size: 21px;
+        width: 319px;
+    }
+
+    .b_button {
+        font-size: 17px;
+        margin-left: 5px;
+    }
+
+    .d_title {
+        margin-left: 20px;
+    }
+
+    .whatsapp-icon {
+        margin-top: -10px;
+        margin-right: 45px;
+    }
+
+    .fourt-section {
+        margin-left: 25em;
+        margin-top: 4em;
+    }
+
+    .social-networks {
+        margin-top: -1px;
+    }
+
+    hr {
+        margin-left: 3em;
+    margin-top: 7em;
+    }
+
+    .img-2 {
+        width: 100%;
+    }
+
+    .social-text{
+        margin-right: 247px;
+        margin-top: -175px;
+    }
+
+    .second-section {
+        margin-left: 10em;
+    }
+
+    footer {
+        height: 630px;
+    }
+
+    .b_right {
+        margin-left: 2em;
+    }
+
+    .main {
+        background-size: contain;
+        background-color: #DBDBDB;
+    }
+
+    .third-section {
+        margin-left: 36em;
+    }
+
+    .icons {
+        width: 89%;
+        margin-top: -138px;
+    }
+
+    .social-text {
+        margin-right: -32px;
+    }
+
+}
+
+@media screen and (min-width:1200px) {
+
+    .login-button {
+        width: 65%;
+    }
+
+    .main {
+        height: 812px;
+        width: 100%;
+        background-size: cover;
+        background-color: #D8D8D8;
+        
+    }
+
+    .main-title {
+        font-size: 60px;
+    }
+
+    .b_right {
+        margin-left: 5em;
+    }
+
+    .b_disorder {
+        font-size: 23px;
+        padding: 15px;
+        width: 85%;
+    }
+
+    .b_button {
+        font-size: 20px;
+        margin-top: 4em;
+    }
+
+    .social-networks {
+        margin-top: -1px;
+        margin-left: -115px;
+    }
+
+    hr {
+        width: 92%;
+        margin-left: 3em;
+        margin-top: 19em;
+    }
+
+    .second-section {
+        margin-left: 10em;
+        margin-top: -378px;
+    }
+
+    .third-section {
+        margin-left: 30em;
+    }
+
+    .fourt-section {
+        margin-left: 50em;
+        margin-top: -191px;
+    }
+
+    .icons {
+        width: 97%;
+    }
+
+    .text {
+        width: 220px;
+    }
+
+    .axirash {
+        width: 140px;
+    }
+
+    .whatsapp-icon {
+        margin-top: -10px;
+    }
+
+    footer {
+        height: 550px;
+    }
+
+    
+
+    .btn-1 {
+        margin-right: -20px;
+    }
+
+    .b_img {
+        width: 600px;
+        height: 542px;
+    }
+}
+
+@media screen and (min-width:1440px) {
+    .main {
+        min-width: 100px;
+        background-image: url("../images/Header 2.png");
+    }    
+    .social-networks {
+        display: flex;
+        justify-content: end;
+        width: 85%;
+        margin-left: 55px;
+        margin-top: 51px;
+        
+    }
+    .cook {
+        background-color: #fff;
+        border-radius: 5px 5px 0px 0px;
+        width: 150px;
+        height: 40px;
+        margin-left: 27px;
+        cursor: pointer;
+    }
+    .whatsapp-icon {
+        background-color: #5EC16A;
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        margin-right: 25px;
+        cursor: pointer;
+    }
+    .foot {
+        display: flex;
+        justify-content: space-between;
+        margin-top: 25px;
+    }
+
+    hr {
+        display: flex;
+        justify-content: center;
+        margin-left: 5em;
+        margin-top: 17em;
+    }
+
+    .b_right {
+        margin-left: 15em;
+    }
+
+    .btnn {
+        margin-left: 40px;
+    }
+
+    footer {
+        height: 540px;
+    }
+
+    .third-section {
+        margin-left: 37em;
+        margin-top: -14em;
+
+    }
+
+    .fourt-section {
+        margin-left: 65em;
+    }
+
+    .b_disorder {
+        margin-top: 50px;
+        margin-left: 1px;
+        width: 627px;
+    }
+
+    .icons {
+        width: 86%;
+        margin-top: -130px;
+    }
+
+    .social-text {
+        font-size: 26px;
+        width: 306px;
+    }
+
+    
+
+    .b_title {
+        margin-bottom: 1px;
+        margin-left: 1px;
+    }
+
+    .b_button {
+        margin-top: 5em;
+    }
+    
+    ul {
+        margin-top: 1em;
+        margin-left: 80px;
+    }
+
+    .main-title {
+        font-size: 87px;
+        width: 788px;
+    }
+
+    .main-text {
+        font-size: 38px;
+    }
+}

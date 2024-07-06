@@ -1,0 +1,414 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    display: flex;
+    width: 100%;
+    height: 112px;
+    background-color: #F7F7F7;
+}
+
+.img-1 {
+    width: 240px;
+    height: 43px;
+    padding-left: 6rem;
+}
+
+.login-button {
+    display: flex;
+    justify-content: flex-end;
+    width: 75%;
+    margin-top: 2em;
+}
+
+.btn-1 {
+    width: 126px;
+    height: 48px;
+    background-color: #BE0000;
+    color: #fff;
+    border: 0;
+    border-radius: 8px;
+    font-size: 18px;
+
+}
+
+.main {
+    background-image: url('../images/Header 1.png');
+    height: 900px;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.main-title {
+    font-size: 55px;
+    color: #012963;
+    width: 35%;
+    padding-top: 5rem;
+
+}
+
+.title-span {
+    color: #BE0000;
+}
+
+.main-text {
+    width: 32%;
+    font-size: 31px;
+    color: #012963;
+}
+
+.btn-2 {
+    background-color: #BE0000;
+    border-radius: 8px;
+    width: 285px;
+    height: 64px;
+    border: 0;
+    font-size: 21px;
+    color: #fff;
+    margin-left: 5%;
+    cursor: pointer;
+}
+
+.btn-span {
+    color: #fff;
+    font-weight: 700;
+}
+
+.pad {
+    padding-bottom: 2rem;
+    padding-left: 5%;
+}
+
+.main2 {
+    background-image: url("../images/main2-background.png");
+}
+
+.main2-title {
+    color: #fff;
+    font-size: 55px;
+    text-align: center;
+}
+
+.main2-text {
+    color: #FF1D1D;
+    font-size: 45px;
+    text-align: center;
+}
+
+.image {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    align-items: center;
+}
+
+.benefits{
+    width: 100%;
+    height: 770px;
+    display: flex;
+    padding-top: 70px;
+    background: #F7F7F7;
+}
+
+.b_right {
+    margin-left: 22em;
+}
+
+.b_title{
+    color: red;
+    font-size: 31px;
+    font-weight: 800;
+}
+
+.b_disorder{
+    width: 590px;
+    font-size: 30px;
+    padding: 20px;
+    color: #012963;
+}
+.b_button{
+    cursor: pointer;
+    padding: 15px 40px;
+    font-size: 23px;
+    border-radius: 5px;
+    border: none;
+    margin-top: 40px;
+    background-color: #BE0000;
+    color: #fff;
+}
+
+.discounds{
+    width: 100%;
+    height: 338px;
+    background-color: #093988;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.card{
+    width: 170px;
+    font-size: 27px;
+}
+
+.d_title{
+    font-size: 85px;
+    font-weight: 800;
+    color: red;
+}
+
+.d_text{
+    color: white;
+    text-align: center;
+}
+
+.recomend{
+    width: 100%;
+    text-align: center;
+    font-size: 41px;
+    font-weight: 800;
+    color: #012963;
+}
+.r_title{
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
+.logo{
+    margin: 40px;
+}
+
+.register{
+    margin-top: 50px;
+    width: 100%px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 100px;
+}
+
+form {
+    width: 681px;
+    padding: 30px;
+    border: none;
+    border-radius: 5px;
+    background-color: #BE000014;
+}
+
+.f_title{
+    text-align: center;
+    margin-bottom: 20px;
+    color: red;
+}
+
+.input-group {
+    margin-bottom: 15px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    box-sizing: border-box;
+}
+
+textarea {
+    width: 607px;
+    height: 71px;
+}
+
+.f_button {
+    background-color: #BE0000;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    float: right;
+}
+
+
+#telefono, #correo{
+    width: 296px;
+    margin-right: 10px;
+}
+
+.f_group{
+    display: flex;
+}
+
+input{
+    width: 607px;
+    border: none;
+    border-radius: 5px;
+}
+
+footer {
+    background-color: #283D80;
+    width: 100%;
+    height: 633px;
+}
+
+nav {
+    display: flex;
+    flex-direction: column;
+    margin-left: 5em;
+    width: 10%;
+}
+
+.text {
+    color: #F7F7F7;
+    margin-top: 15px;
+    cursor: pointer;
+}
+
+ul{
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+li {
+    color: #fff;
+    width: 160%;
+    list-style: none;
+}
+
+.axirash {
+    color: #fff;
+    font-weight: 900;
+    font-size: 20px;
+    margin-top: -7px;
+}
+
+.ifv {
+    margin-top: 40px;
+    font-size: 25px;
+    width: 130%;
+}
+
+h2 {
+    color: #fff;
+}
+
+.second-section {
+    display: flex;
+    justify-content: center;
+    width: 70%;
+    flex-direction: column;
+    margin-top: -28em;
+    margin-left: 15em;
+    padding-left: 15em;
+}
+
+.third-section {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-left: 20em;
+    padding-left: 25em;
+    margin-top: -220px;
+}
+
+.fourt-section {
+    display: flex;
+    flex-direction: column;
+    margin-left: 30em;
+    padding-left: 40em;
+    margin-top: -190px;
+}
+
+.footer-logo{
+    margin-top: 50px;
+}
+
+.btn-3 {
+    height: 40px;
+    width: 150px;
+    border: none;
+    border-radius: 20px;
+    color: #fff;
+    background: #BE0000;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.social-networks {
+    display: grid;
+    justify-content: end;
+    width: 93%;
+    margin-top: -10em;
+}
+
+.social-text {
+    color: #fff;
+    font-size: 21px;
+    font-weight: bold;
+    margin-top: -175px;
+    margin-right: 70px;
+}
+
+i {
+    padding-left: 20px;
+    font-size: 30px;
+    padding: 10px;
+}
+
+.icons {
+    display: flex;
+    justify-content: end;
+    width: 89%;
+    margin-top: -118px;
+}
+
+.arround-boxes {
+    width: 50px;
+    height: 50px;
+    align-items: center;
+    text-align: center;
+    background-color: #BE0000;
+    margin-left: 15px;
+    border-radius: 10px;
+}
+
+.foot{
+    display: flex;
+    justify-content: space-between;
+    
+    margin-top: 1em;
+}
+
+.cook {
+    background-color: #fff;
+    border-radius: 5px 5px 0px 0px;
+    width: 150px;
+    height: 40px;
+    margin-left: 27px;
+}
+
+.btnn {
+    margin-left: 45px;
+    margin-top: 12px;
+}
+
+.copyright {
+    color: #fff;
+}
+
+.whatsapp-icon {
+    background-color: #5EC16A;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-top: -1em;
+    margin-right: 25px;
+}
+
